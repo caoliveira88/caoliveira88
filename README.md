@@ -1,4 +1,4 @@
-## Hey, eu sou a Camila de Oliveira, seja bem-vindo ao meu Github!
+## Hello, eu sou a Camila de Oliveira, seja bem-vindo ao meu Github!
 
 <div align="center">
   <a href="https://github.com/caoliveira88">
