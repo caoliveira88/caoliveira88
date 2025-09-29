@@ -2,6 +2,8 @@
 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como Desenvolvedora Front-end.
+- ✉️ CRM E-mail marketing
+- ☁️ Salesforce Marketing Cloud
 - 🌱 Aprendendo mais sobre desenvolvimento Web.
 
 ## Minhas Skills
